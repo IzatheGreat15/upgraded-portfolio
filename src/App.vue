@@ -6,10 +6,10 @@
 </template>
 
 <script>
-import About from './components/About.vue';
-import Contact from './components/Contact.vue';
-import Projects from './components/Projects.vue';
-import TechStack from './components/TechStack.vue';
+import About from './views/About.vue';
+import Contact from './views/Contact.vue';
+import Projects from './views/Projects.vue';
+import TechStack from './views/TechStack.vue';
 
 export default {
   components: {

@@ -1,5 +1,5 @@
 <template>
-    <main class="bg-white">this is techstack</main>
+    <main id="contact">this is contact</main>
   </template>
   
   <script>

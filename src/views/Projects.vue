@@ -1,5 +1,5 @@
 <template>
-    <main>this is contact</main>
+    <main class="bg-pink-200" id="projects">this is projects</main>
   </template>
   
   <script>
