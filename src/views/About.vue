@@ -1,7 +1,7 @@
 <template>
   <main class="bg-img flex flex-col h-full" id="about">
     <Navbar />
-    <section class="flex-grow flex flex-col-reverse gap-8 md:gap-0 md:flex-row justify-end md:justify-center items-center">
+    <section class="flex-grow flex flex-col-reverse gap-8 sm:gap-0 sm:flex-row justify-end md:justify-center items-center">
       <div class="w-full md:w-2/3 px-6 md:px-20">
         <h6 class="uppercase text-xl md:text-4xl text-white font-extrabold">Kathleen Iza</h6>
         <h1 class="uppercase text-6xl md:text-9xl text-white font-extrabold">

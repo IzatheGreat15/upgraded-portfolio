@@ -25,7 +25,7 @@
           </div>
         </div>
       </div>
-      <div :class="{'block': isOpen, 'hidden': !isOpen}" class="md:hidden absolute top-14 inset-x-0 py-2 transition transform origin-top-right">
+      <div :class="{'block': isOpen, 'hidden': !isOpen}" class="md:hidden absolute top-14 z-20 inset-x-0 py-2 transition transform origin-top-right">
         <div class="w-full shadow-md bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
           <div class="px-2 pt-2 pb-3 sm:px-3">
             <a href="#about" class="block text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-base font-medium">About</a>
