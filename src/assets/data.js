@@ -40,3 +40,36 @@ export const tech = [
         link: 'https://www.javascript.com/',
     },
 ];
+
+export const projects = [
+    {
+        title: 'Timekeeping and Office Portal System',
+        image: 'src/assets/images/amt.png',
+        description: 'lorem ipsum',
+        job_desc: [
+            'job1',
+            'job2',
+            'job3'
+        ],
+    },
+    {
+        title: 'Vhire Ticketing System',
+        image: 'src/assets/images/vhire.png',
+        description: 'lorem ipsum',
+        job_desc: [
+            'job1',
+            'job2',
+            'job3'
+        ],
+    },
+    {
+        title: 'E-commerce and Inventory Management System',
+        image: 'src/assets/images/sneakcops.png',
+        description: 'lorem ipsum',
+        job_desc: [
+            'job1',
+            'job2',
+            'job3'
+        ],
+    },
+];

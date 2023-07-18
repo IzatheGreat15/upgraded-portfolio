@@ -1,5 +1,5 @@
 <template>
-    <span class="relative uppercase text-3xl font-bold">
+    <span class="relative uppercase text-3xl font-bold w-fit">
         {{ title }}
         <span class="absolute -bottom-1 left-0 w-full h-1 bg-red-500"></span>
     </span>

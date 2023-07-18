@@ -3,8 +3,13 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-html{
+* {
+  margin: 0;
   scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
 
 #app {
