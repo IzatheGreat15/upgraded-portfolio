@@ -10,7 +10,6 @@
       <section class="grid gap-4 md:gap-10 grid-cols-2 md:grid-cols-4 my-5 mt-10">
         <Tech v-for="(item, index) in tech" :key="index" :item="item" />
       </section>
-      
     </main>
   </template>
   

@@ -20,16 +20,16 @@
           </div>
           <!-- icons -->
           <div class="flex w-3/4 md:w-1/2 my-4">
-            <a href="#" class="w-1/4 flex h-8">
+            <a href="https://github.com/IzatheGreat15" target="_blank" class="w-1/4 flex h-8">
               <img :src="github" alt="GitHub" />
             </a>
-            <a href="#" class="w-1/4 flex h-8">
+            <a href="https://twitter.com/IzatheGreat_" target="_blank" class="w-1/4 flex h-8">
               <img :src="twitter" alt="Twitter" />
             </a>
-            <a href="#" class="w-1/4 flex h-8">
+            <a href="https://www.linkedin.com/in/kathleen-iza-monzales-397866220/" target="_blank" class="w-1/4 flex h-8">
               <img :src="linkedin" alt="LinkedIn" />
             </a>
-            <a href="#" class="w-1/4 flex h-8">
+            <a href="mailto:monzalesiza@gmail.com" target="_blank" class="w-1/4 flex h-8">
               <img :src="mail" alt="Mail" />
             </a>
           </div>

@@ -1,7 +1,10 @@
 <template>
   <main class="bg-grey pt-20 text-center text-white flex flex-col md:max-h-screen md:overflow-y-hidden" id="projects">
-    <div class="flex justify-center">
+    <div class="flex flex-col items-center justify-center">
       <Title :title="'Projects'" />
+      <p class="mt-5 text-justify sm:text-center">
+        scroll to view more
+      </p>
     </div>
     <div class="flex flex-grow relative mt-10 h-screen">
       <div class="horizontal-scroll object-contain">
