@@ -51,6 +51,11 @@ export const projects = [
             'job2',
             'job3'
         ],
+        tech: [
+            'https://cdn-icons-png.flaticon.com/512/5968/5968705.png',
+            'https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png',
+            'https://cdn-icons-png.flaticon.com/512/5968/5968313.png'
+        ]
     },
     {
         title: 'Vhire Ticketing System',
@@ -61,6 +66,11 @@ export const projects = [
             'job2',
             'job3'
         ],
+        tech: [
+            'https://cdn-icons-png.flaticon.com/512/5968/5968705.png',
+            'https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png',
+            'https://cdn-icons-png.flaticon.com/512/5968/5968313.png'
+        ]
     },
     {
         title: 'E-commerce and Inventory Management System',
@@ -71,5 +81,11 @@ export const projects = [
             'job2',
             'job3'
         ],
+        tech: [
+            'https://cdn-icons-png.flaticon.com/512/5968/5968705.png',
+            'https://cdn-icons-png.flaticon.com/512/5968/5968332.png',
+            'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
+            'https://cdn-icons-png.flaticon.com/512/5968/5968292.png'
+        ]
     },
 ];
